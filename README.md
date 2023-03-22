@@ -69,4 +69,4 @@ e. In Jupyter, choose New and then choose conda_python3.
 5. Clean up (Not terminating your resources will result in charges to your account.)
  
  
- or the full result, please refer to this https://github.com/ht175/IDS721-Project3/blob/main/start_up_prediction.ipynb
+ For the full result, please refer to this https://github.com/ht175/IDS721-Project3/blob/main/start_up_prediction.ipynb
